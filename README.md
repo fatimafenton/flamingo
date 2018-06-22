@@ -1,2 +1,3 @@
-# flamingo
-Css grids placements
+# Grids
+
+Grid examples for ctfeds workshop
